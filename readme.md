@@ -3,3 +3,5 @@ Currently testing low level AWS cost for my personal AWS account using limited r
 https://master.d3sjz5vynjdh49.amplifyapp.com/
 
 Uses AWS Amplify to host the app, cognito , dynamo db and api-gateway.
+
+click the giddy-up link to register via email
